@@ -1,0 +1,8 @@
+Sales Dashboard Insights
+Regional Performance: The West and East regions are the top performers, contributing the vast majority of total sales. The South region is the lowest-performing, generating less than half the revenue of the top two.
+
+Product Mix: The Technology category drives the highest revenue share (38.59%), closely followed by Office Supplies (32.22%). This indicates sales efforts should focus heavily on these two categories.
+
+Monthly Trend: Sales show strong seasonality, with clear peak periods in March and a significant surge in November and December. Sales consistently dip in the middle of the year (May-August).
+
+Actionable Focus: To boost overall revenue, the company should investigate strategies to increase sales in the underperforming Central and South regions, potentially by replicating successful sales models from the West region.
